@@ -211,7 +211,6 @@ console.log(trees);
 wildlife();
 // => "Elk, Bighorn Sheep, Moose"
 ```
-
 We can also write named exports next to the function definition:
 
 ```js
